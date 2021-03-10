@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "500741321668",
+    "project_id": "rehber-staj",
+    "storage_bucket": "rehber-staj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500741321668:android:20be4bb623e2642e13aa91",
+        "android_client_info": {
+          "package_name": "com.example.rehber_uygulmasi_staj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500741321668-je908920g53da5254n00146v7lrtaav1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuazqMBeAZ13wC0ZTOdPiRL6l7MXBVIB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500741321668-je908920g53da5254n00146v7lrtaav1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
